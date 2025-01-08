@@ -1,0 +1,265 @@
+====================================================
+open log file: 2025-01-08 00:59:54
+[2025-01-08 00:59:54][notice]Scanning images: 11 found 
+[2025-01-08 00:59:56][notice]Start optimizing images: id:9
+[2025-01-08 00:59:56][notice]Start WebP conversion slider1.jpg
+[2025-01-08 00:59:56][notice]Converting slider1.jpg to WebP succeeded.
+[2025-01-08 00:59:56][notice]WebP size larger than original size, deleting file slider1.jpg.webp.
+[2025-01-08 00:59:56][notice]Start WebP conversion slider1-300x169.jpg
+[2025-01-08 00:59:56][notice]Converting slider1-300x169.jpg to WebP succeeded.
+[2025-01-08 00:59:56][notice]Start WebP conversion slider1-1024x576.jpg
+[2025-01-08 00:59:56][notice]Converting slider1-1024x576.jpg to WebP succeeded.
+[2025-01-08 00:59:56][notice]Start WebP conversion slider1-150x150.jpg
+[2025-01-08 00:59:56][notice]Converting slider1-150x150.jpg to WebP succeeded.
+[2025-01-08 00:59:56][notice]Start WebP conversion slider1-768x432.jpg
+[2025-01-08 00:59:56][notice]Converting slider1-768x432.jpg to WebP succeeded.
+[2025-01-08 00:59:56][notice]Start WebP conversion slider1-360x240.jpg
+[2025-01-08 00:59:56][notice]Converting slider1-360x240.jpg to WebP succeeded.
+[2025-01-08 00:59:56][notice]Start AVIF conversion:slider1.jpg
+[2025-01-08 00:59:59][notice]Converting slider1.jpg to AVIF succeeded.
+[2025-01-08 00:59:59][notice]Start AVIF conversion:slider1-300x169.jpg
+[2025-01-08 01:00:00][notice]Converting slider1-300x169.jpg to AVIF succeeded.
+[2025-01-08 01:00:00][notice]Start AVIF conversion:slider1-1024x576.jpg
+[2025-01-08 01:00:03][notice]Converting slider1-1024x576.jpg to AVIF succeeded.
+[2025-01-08 01:00:03][notice]Start AVIF conversion:slider1-150x150.jpg
+[2025-01-08 01:00:03][notice]Converting slider1-150x150.jpg to AVIF succeeded.
+[2025-01-08 01:00:03][notice]Start AVIF conversion:slider1-768x432.jpg
+[2025-01-08 01:00:04][notice]Converting slider1-768x432.jpg to AVIF succeeded.
+[2025-01-08 01:00:04][notice]Start AVIF conversion:slider1-360x240.jpg
+[2025-01-08 01:00:05][notice]Converting slider1-360x240.jpg to AVIF succeeded.
+[2025-01-08 01:00:05][notice]Optimizing image id:9 succeeded.
+[2025-01-08 01:00:05][notice]Start optimizing images: id:10
+[2025-01-08 01:00:05][notice]Start WebP conversion slider1-1.jpg
+[2025-01-08 01:00:05][notice]Converting slider1-1.jpg to WebP succeeded.
+[2025-01-08 01:00:05][notice]WebP size larger than original size, deleting file slider1-1.jpg.webp.
+[2025-01-08 01:00:06][notice]Start WebP conversion slider1-1-300x169.jpg
+[2025-01-08 01:00:06][notice]Converting slider1-1-300x169.jpg to WebP succeeded.
+[2025-01-08 01:00:06][notice]Start WebP conversion slider1-1-1024x576.jpg
+[2025-01-08 01:00:06][notice]Converting slider1-1-1024x576.jpg to WebP succeeded.
+[2025-01-08 01:00:06][notice]Start WebP conversion slider1-1-150x150.jpg
+[2025-01-08 01:00:06][notice]Converting slider1-1-150x150.jpg to WebP succeeded.
+[2025-01-08 01:00:06][notice]Start WebP conversion slider1-1-768x432.jpg
+[2025-01-08 01:00:06][notice]Converting slider1-1-768x432.jpg to WebP succeeded.
+[2025-01-08 01:00:06][notice]Start WebP conversion slider1-1-360x240.jpg
+[2025-01-08 01:00:06][notice]Converting slider1-1-360x240.jpg to WebP succeeded.
+[2025-01-08 01:00:06][notice]Start AVIF conversion:slider1-1.jpg
+[2025-01-08 01:00:09][notice]Converting slider1-1.jpg to AVIF succeeded.
+[2025-01-08 01:00:09][notice]Start AVIF conversion:slider1-1-300x169.jpg
+[2025-01-08 01:00:09][notice]Converting slider1-1-300x169.jpg to AVIF succeeded.
+[2025-01-08 01:00:09][notice]Start AVIF conversion:slider1-1-1024x576.jpg
+[2025-01-08 01:00:12][notice]Converting slider1-1-1024x576.jpg to AVIF succeeded.
+[2025-01-08 01:00:12][notice]Start AVIF conversion:slider1-1-150x150.jpg
+[2025-01-08 01:00:12][notice]Converting slider1-1-150x150.jpg to AVIF succeeded.
+[2025-01-08 01:00:12][notice]Start AVIF conversion:slider1-1-768x432.jpg
+[2025-01-08 01:00:14][notice]Converting slider1-1-768x432.jpg to AVIF succeeded.
+[2025-01-08 01:00:14][notice]Start AVIF conversion:slider1-1-360x240.jpg
+[2025-01-08 01:00:14][notice]Converting slider1-1-360x240.jpg to AVIF succeeded.
+[2025-01-08 01:00:14][notice]Optimizing image id:10 succeeded.
+[2025-01-08 01:00:14][notice]Start optimizing images: id:11
+[2025-01-08 01:00:14][notice]Start WebP conversion card-blog1.jpg
+[2025-01-08 01:00:15][notice]Converting card-blog1.jpg to WebP succeeded.
+[2025-01-08 01:00:15][notice]Start WebP conversion card-blog1-300x200.jpg
+[2025-01-08 01:00:15][notice]Converting card-blog1-300x200.jpg to WebP succeeded.
+[2025-01-08 01:00:15][notice]Start WebP conversion card-blog1-150x150.jpg
+[2025-01-08 01:00:15][notice]Converting card-blog1-150x150.jpg to WebP succeeded.
+[2025-01-08 01:00:15][notice]Start WebP conversion card-blog1-768x512.jpg
+[2025-01-08 01:00:15][notice]Converting card-blog1-768x512.jpg to WebP succeeded.
+[2025-01-08 01:00:15][notice]Start WebP conversion card-blog1-360x240.jpg
+[2025-01-08 01:00:15][notice]Converting card-blog1-360x240.jpg to WebP succeeded.
+[2025-01-08 01:00:15][notice]Start AVIF conversion:card-blog1.jpg
+[2025-01-08 01:00:17][notice]Converting card-blog1.jpg to AVIF succeeded.
+[2025-01-08 01:00:17][notice]Start AVIF conversion:card-blog1-300x200.jpg
+[2025-01-08 01:00:17][notice]Converting card-blog1-300x200.jpg to AVIF succeeded.
+[2025-01-08 01:00:17][notice]Start AVIF conversion:card-blog1-150x150.jpg
+[2025-01-08 01:00:18][notice]Converting card-blog1-150x150.jpg to AVIF succeeded.
+[2025-01-08 01:00:18][notice]Start AVIF conversion:card-blog1-768x512.jpg
+[2025-01-08 01:00:20][notice]Converting card-blog1-768x512.jpg to AVIF succeeded.
+[2025-01-08 01:00:20][notice]Start AVIF conversion:card-blog1-360x240.jpg
+[2025-01-08 01:00:20][notice]Converting card-blog1-360x240.jpg to AVIF succeeded.
+[2025-01-08 01:00:21][notice]Optimizing image id:11 succeeded.
+[2025-01-08 01:00:21][notice]Start optimizing images: id:12
+[2025-01-08 01:00:21][notice]Start WebP conversion card-blog2.jpg
+[2025-01-08 01:00:21][notice]Converting card-blog2.jpg to WebP succeeded.
+[2025-01-08 01:00:21][notice]Start WebP conversion card-blog2-300x200.jpg
+[2025-01-08 01:00:21][notice]Converting card-blog2-300x200.jpg to WebP succeeded.
+[2025-01-08 01:00:21][notice]Start WebP conversion card-blog2-150x150.jpg
+[2025-01-08 01:00:21][notice]Converting card-blog2-150x150.jpg to WebP succeeded.
+[2025-01-08 01:00:21][notice]Start WebP conversion card-blog2-768x513.jpg
+[2025-01-08 01:00:21][notice]Converting card-blog2-768x513.jpg to WebP succeeded.
+[2025-01-08 01:00:21][notice]Start WebP conversion card-blog2-360x240.jpg
+[2025-01-08 01:00:21][notice]Converting card-blog2-360x240.jpg to WebP succeeded.
+[2025-01-08 01:00:21][notice]Start AVIF conversion:card-blog2.jpg
+[2025-01-08 01:00:24][notice]Converting card-blog2.jpg to AVIF succeeded.
+[2025-01-08 01:00:24][notice]Start AVIF conversion:card-blog2-300x200.jpg
+[2025-01-08 01:00:25][notice]Converting card-blog2-300x200.jpg to AVIF succeeded.
+[2025-01-08 01:00:25][notice]Start AVIF conversion:card-blog2-150x150.jpg
+[2025-01-08 01:00:25][notice]Converting card-blog2-150x150.jpg to AVIF succeeded.
+[2025-01-08 01:00:25][notice]Start AVIF conversion:card-blog2-768x513.jpg
+[2025-01-08 01:00:27][notice]Converting card-blog2-768x513.jpg to AVIF succeeded.
+[2025-01-08 01:00:27][notice]Start AVIF conversion:card-blog2-360x240.jpg
+[2025-01-08 01:00:28][notice]Converting card-blog2-360x240.jpg to AVIF succeeded.
+[2025-01-08 01:00:28][notice]Optimizing image id:12 succeeded.
+[2025-01-08 01:00:28][notice]Start optimizing images: id:13
+[2025-01-08 01:00:28][notice]Start WebP conversion card-blog3.jpg
+[2025-01-08 01:00:28][notice]Converting card-blog3.jpg to WebP succeeded.
+[2025-01-08 01:00:28][notice]Start WebP conversion card-blog3-300x199.jpg
+[2025-01-08 01:00:28][notice]Converting card-blog3-300x199.jpg to WebP succeeded.
+[2025-01-08 01:00:28][notice]Start WebP conversion card-blog3-150x150.jpg
+[2025-01-08 01:00:28][notice]Converting card-blog3-150x150.jpg to WebP succeeded.
+[2025-01-08 01:00:28][notice]Start WebP conversion card-blog3-360x240.jpg
+[2025-01-08 01:00:28][notice]Converting card-blog3-360x240.jpg to WebP succeeded.
+[2025-01-08 01:00:28][notice]Start AVIF conversion:card-blog3.jpg
+[2025-01-08 01:00:30][notice]Converting card-blog3.jpg to AVIF succeeded.
+[2025-01-08 01:00:30][notice]Start AVIF conversion:card-blog3-300x199.jpg
+[2025-01-08 01:00:30][notice]Converting card-blog3-300x199.jpg to AVIF succeeded.
+[2025-01-08 01:00:30][notice]Start AVIF conversion:card-blog3-150x150.jpg
+[2025-01-08 01:00:31][notice]Converting card-blog3-150x150.jpg to AVIF succeeded.
+[2025-01-08 01:00:31][notice]Start AVIF conversion:card-blog3-360x240.jpg
+[2025-01-08 01:00:32][notice]Converting card-blog3-360x240.jpg to AVIF succeeded.
+[2025-01-08 01:00:32][notice]Optimizing image id:13 succeeded.
+[2025-01-08 01:00:32][notice]End request cost time:36.
+[2025-01-08 01:00:33][notice]Start optimizing images: id:14
+[2025-01-08 01:00:33][notice]Start WebP conversion card-blog4.jpg
+[2025-01-08 01:00:33][notice]Converting card-blog4.jpg to WebP succeeded.
+[2025-01-08 01:00:33][notice]Start WebP conversion card-blog4-300x199.jpg
+[2025-01-08 01:00:33][notice]Converting card-blog4-300x199.jpg to WebP succeeded.
+[2025-01-08 01:00:33][notice]Start WebP conversion card-blog4-150x150.jpg
+[2025-01-08 01:00:33][notice]Converting card-blog4-150x150.jpg to WebP succeeded.
+[2025-01-08 01:00:33][notice]Start WebP conversion card-blog4-360x240.jpg
+[2025-01-08 01:00:33][notice]Converting card-blog4-360x240.jpg to WebP succeeded.
+[2025-01-08 01:00:33][notice]Start AVIF conversion:card-blog4.jpg
+[2025-01-08 01:00:36][notice]Converting card-blog4.jpg to AVIF succeeded.
+[2025-01-08 01:00:36][notice]Start AVIF conversion:card-blog4-300x199.jpg
+[2025-01-08 01:00:36][notice]Converting card-blog4-300x199.jpg to AVIF succeeded.
+[2025-01-08 01:00:36][notice]Start AVIF conversion:card-blog4-150x150.jpg
+[2025-01-08 01:00:37][notice]Converting card-blog4-150x150.jpg to AVIF succeeded.
+[2025-01-08 01:00:37][notice]Start AVIF conversion:card-blog4-360x240.jpg
+[2025-01-08 01:00:37][notice]Converting card-blog4-360x240.jpg to AVIF succeeded.
+[2025-01-08 01:00:38][notice]Optimizing image id:14 succeeded.
+[2025-01-08 01:00:38][notice]Start optimizing images: id:15
+[2025-01-08 01:00:38][notice]Start WebP conversion card-blog5.jpg
+[2025-01-08 01:00:38][notice]Converting card-blog5.jpg to WebP succeeded.
+[2025-01-08 01:00:38][notice]Start WebP conversion card-blog5-300x200.jpg
+[2025-01-08 01:00:38][notice]Converting card-blog5-300x200.jpg to WebP succeeded.
+[2025-01-08 01:00:38][notice]Start WebP conversion card-blog5-150x150.jpg
+[2025-01-08 01:00:38][notice]Converting card-blog5-150x150.jpg to WebP succeeded.
+[2025-01-08 01:00:38][notice]Start WebP conversion card-blog5-768x512.jpg
+[2025-01-08 01:00:38][notice]Converting card-blog5-768x512.jpg to WebP succeeded.
+[2025-01-08 01:00:38][notice]Start WebP conversion card-blog5-360x240.jpg
+[2025-01-08 01:00:38][notice]Converting card-blog5-360x240.jpg to WebP succeeded.
+[2025-01-08 01:00:38][notice]Start AVIF conversion:card-blog5.jpg
+[2025-01-08 01:00:40][notice]Converting card-blog5.jpg to AVIF succeeded.
+[2025-01-08 01:00:40][notice]Start AVIF conversion:card-blog5-300x200.jpg
+[2025-01-08 01:00:40][notice]Converting card-blog5-300x200.jpg to AVIF succeeded.
+[2025-01-08 01:00:41][notice]Start AVIF conversion:card-blog5-150x150.jpg
+[2025-01-08 01:00:41][notice]Converting card-blog5-150x150.jpg to AVIF succeeded.
+[2025-01-08 01:00:41][notice]Start AVIF conversion:card-blog5-768x512.jpg
+[2025-01-08 01:00:42][notice]Converting card-blog5-768x512.jpg to AVIF succeeded.
+[2025-01-08 01:00:43][notice]Start AVIF conversion:card-blog5-360x240.jpg
+[2025-01-08 01:00:43][notice]Converting card-blog5-360x240.jpg to AVIF succeeded.
+[2025-01-08 01:00:43][notice]Optimizing image id:15 succeeded.
+[2025-01-08 01:00:43][notice]Start optimizing images: id:1753
+[2025-01-08 01:00:43][notice]Start WebP conversion Logo-de-Madagasy-Blanc.png
+[2025-01-08 01:00:44][notice]Converting Logo-de-Madagasy-Blanc.png to WebP succeeded.
+[2025-01-08 01:00:44][notice]Start WebP conversion Logo-de-Madagasy-Blanc-300x300.png
+[2025-01-08 01:00:44][notice]Converting Logo-de-Madagasy-Blanc-300x300.png to WebP succeeded.
+[2025-01-08 01:00:44][notice]Start WebP conversion Logo-de-Madagasy-Blanc-1024x1024.png
+[2025-01-08 01:00:44][notice]Converting Logo-de-Madagasy-Blanc-1024x1024.png to WebP succeeded.
+[2025-01-08 01:00:44][notice]Start WebP conversion Logo-de-Madagasy-Blanc-150x150.png
+[2025-01-08 01:00:44][notice]Converting Logo-de-Madagasy-Blanc-150x150.png to WebP succeeded.
+[2025-01-08 01:00:44][notice]Start WebP conversion Logo-de-Madagasy-Blanc-768x768.png
+[2025-01-08 01:00:44][notice]Converting Logo-de-Madagasy-Blanc-768x768.png to WebP succeeded.
+[2025-01-08 01:00:44][notice]Start WebP conversion Logo-de-Madagasy-Blanc-360x240.png
+[2025-01-08 01:00:44][notice]Converting Logo-de-Madagasy-Blanc-360x240.png to WebP succeeded.
+[2025-01-08 01:00:44][notice]Start AVIF conversion:Logo-de-Madagasy-Blanc.png
+[2025-01-08 01:00:46][notice]Converting Logo-de-Madagasy-Blanc.png to AVIF succeeded.
+[2025-01-08 01:00:46][notice]Start AVIF conversion:Logo-de-Madagasy-Blanc-300x300.png
+[2025-01-08 01:00:47][notice]Converting Logo-de-Madagasy-Blanc-300x300.png to AVIF succeeded.
+[2025-01-08 01:00:47][notice]Start AVIF conversion:Logo-de-Madagasy-Blanc-1024x1024.png
+[2025-01-08 01:00:49][notice]Converting Logo-de-Madagasy-Blanc-1024x1024.png to AVIF succeeded.
+[2025-01-08 01:00:49][notice]Start AVIF conversion:Logo-de-Madagasy-Blanc-150x150.png
+[2025-01-08 01:00:49][notice]Converting Logo-de-Madagasy-Blanc-150x150.png to AVIF succeeded.
+[2025-01-08 01:00:49][notice]Start AVIF conversion:Logo-de-Madagasy-Blanc-768x768.png
+[2025-01-08 01:00:51][notice]Converting Logo-de-Madagasy-Blanc-768x768.png to AVIF succeeded.
+[2025-01-08 01:00:51][notice]Start AVIF conversion:Logo-de-Madagasy-Blanc-360x240.png
+[2025-01-08 01:00:52][notice]Converting Logo-de-Madagasy-Blanc-360x240.png to AVIF succeeded.
+[2025-01-08 01:00:52][notice]Optimizing image id:1753 succeeded.
+[2025-01-08 01:00:52][notice]Start optimizing images: id:1757
+[2025-01-08 01:00:52][notice]Start WebP conversion Logo-de-Madagasy-Blanc-1.png
+[2025-01-08 01:00:52][notice]Converting Logo-de-Madagasy-Blanc-1.png to WebP succeeded.
+[2025-01-08 01:00:52][notice]Start WebP conversion Logo-de-Madagasy-Blanc-1-300x300.png
+[2025-01-08 01:00:52][notice]Converting Logo-de-Madagasy-Blanc-1-300x300.png to WebP succeeded.
+[2025-01-08 01:00:52][notice]Start WebP conversion Logo-de-Madagasy-Blanc-1-1024x1024.png
+[2025-01-08 01:00:52][notice]Converting Logo-de-Madagasy-Blanc-1-1024x1024.png to WebP succeeded.
+[2025-01-08 01:00:52][notice]Start WebP conversion Logo-de-Madagasy-Blanc-1-150x150.png
+[2025-01-08 01:00:52][notice]Converting Logo-de-Madagasy-Blanc-1-150x150.png to WebP succeeded.
+[2025-01-08 01:00:52][notice]Start WebP conversion Logo-de-Madagasy-Blanc-1-768x768.png
+[2025-01-08 01:00:52][notice]Converting Logo-de-Madagasy-Blanc-1-768x768.png to WebP succeeded.
+[2025-01-08 01:00:52][notice]Start WebP conversion Logo-de-Madagasy-Blanc-1-360x240.png
+[2025-01-08 01:00:52][notice]Converting Logo-de-Madagasy-Blanc-1-360x240.png to WebP succeeded.
+[2025-01-08 01:00:52][notice]Start AVIF conversion:Logo-de-Madagasy-Blanc-1.png
+[2025-01-08 01:00:55][notice]Converting Logo-de-Madagasy-Blanc-1.png to AVIF succeeded.
+[2025-01-08 01:00:55][notice]Start AVIF conversion:Logo-de-Madagasy-Blanc-1-300x300.png
+[2025-01-08 01:00:55][notice]Converting Logo-de-Madagasy-Blanc-1-300x300.png to AVIF succeeded.
+[2025-01-08 01:00:55][notice]Start AVIF conversion:Logo-de-Madagasy-Blanc-1-1024x1024.png
+[2025-01-08 01:00:57][notice]Converting Logo-de-Madagasy-Blanc-1-1024x1024.png to AVIF succeeded.
+[2025-01-08 01:00:57][notice]Start AVIF conversion:Logo-de-Madagasy-Blanc-1-150x150.png
+[2025-01-08 01:00:58][notice]Converting Logo-de-Madagasy-Blanc-1-150x150.png to AVIF succeeded.
+[2025-01-08 01:00:58][notice]Start AVIF conversion:Logo-de-Madagasy-Blanc-1-768x768.png
+[2025-01-08 01:00:59][notice]Converting Logo-de-Madagasy-Blanc-1-768x768.png to AVIF succeeded.
+[2025-01-08 01:00:59][notice]Start AVIF conversion:Logo-de-Madagasy-Blanc-1-360x240.png
+[2025-01-08 01:01:00][notice]Converting Logo-de-Madagasy-Blanc-1-360x240.png to AVIF succeeded.
+[2025-01-08 01:01:00][notice]Optimizing image id:1757 succeeded.
+[2025-01-08 01:01:00][notice]Start optimizing images: id:1763
+[2025-01-08 01:01:00][notice]Start WebP conversion Icone-de-Madagasy.png
+[2025-01-08 01:01:00][notice]Converting Icone-de-Madagasy.png to WebP succeeded.
+[2025-01-08 01:01:00][notice]Start WebP conversion Icone-de-Madagasy-300x300.png
+[2025-01-08 01:01:00][notice]Converting Icone-de-Madagasy-300x300.png to WebP succeeded.
+[2025-01-08 01:01:00][notice]Start WebP conversion Icone-de-Madagasy-150x150.png
+[2025-01-08 01:01:00][notice]Converting Icone-de-Madagasy-150x150.png to WebP succeeded.
+[2025-01-08 01:01:00][notice]Start WebP conversion Icone-de-Madagasy-360x240.png
+[2025-01-08 01:01:00][notice]Converting Icone-de-Madagasy-360x240.png to WebP succeeded.
+[2025-01-08 01:01:00][notice]Start AVIF conversion:Icone-de-Madagasy.png
+[2025-01-08 01:01:04][notice]Converting Icone-de-Madagasy.png to AVIF succeeded.
+[2025-01-08 01:01:04][notice]Start AVIF conversion:Icone-de-Madagasy-300x300.png
+[2025-01-08 01:01:04][notice]Converting Icone-de-Madagasy-300x300.png to AVIF succeeded.
+[2025-01-08 01:01:05][notice]Start AVIF conversion:Icone-de-Madagasy-150x150.png
+[2025-01-08 01:01:05][notice]Converting Icone-de-Madagasy-150x150.png to AVIF succeeded.
+[2025-01-08 01:01:05][notice]Start AVIF conversion:Icone-de-Madagasy-360x240.png
+[2025-01-08 01:01:06][notice]Converting Icone-de-Madagasy-360x240.png to AVIF succeeded.
+[2025-01-08 01:01:06][notice]Optimizing image id:1763 succeeded.
+[2025-01-08 01:01:06][notice]End request cost time:33.
+[2025-01-08 01:01:08][notice]Start optimizing images: id:1764
+[2025-01-08 01:01:08][notice]Start WebP conversion cropped-Icone-de-Madagasy.png
+[2025-01-08 01:01:09][notice]Converting cropped-Icone-de-Madagasy.png to WebP succeeded.
+[2025-01-08 01:01:09][notice]Start WebP conversion cropped-Icone-de-Madagasy-300x300.png
+[2025-01-08 01:01:09][notice]Converting cropped-Icone-de-Madagasy-300x300.png to WebP succeeded.
+[2025-01-08 01:01:09][notice]Start WebP conversion cropped-Icone-de-Madagasy-150x150.png
+[2025-01-08 01:01:09][notice]Converting cropped-Icone-de-Madagasy-150x150.png to WebP succeeded.
+[2025-01-08 01:01:09][notice]Start WebP conversion cropped-Icone-de-Madagasy-360x240.png
+[2025-01-08 01:01:09][notice]Converting cropped-Icone-de-Madagasy-360x240.png to WebP succeeded.
+[2025-01-08 01:01:09][notice]Start WebP conversion cropped-Icone-de-Madagasy-270x270.png
+[2025-01-08 01:01:09][notice]Converting cropped-Icone-de-Madagasy-270x270.png to WebP succeeded.
+[2025-01-08 01:01:09][notice]Start WebP conversion cropped-Icone-de-Madagasy-192x192.png
+[2025-01-08 01:01:09][notice]Converting cropped-Icone-de-Madagasy-192x192.png to WebP succeeded.
+[2025-01-08 01:01:09][notice]Start WebP conversion cropped-Icone-de-Madagasy-180x180.png
+[2025-01-08 01:01:09][notice]Converting cropped-Icone-de-Madagasy-180x180.png to WebP succeeded.
+[2025-01-08 01:01:09][notice]Start WebP conversion cropped-Icone-de-Madagasy-32x32.png
+[2025-01-08 01:01:09][notice]Converting cropped-Icone-de-Madagasy-32x32.png to WebP succeeded.
+[2025-01-08 01:01:09][notice]Start AVIF conversion:cropped-Icone-de-Madagasy.png
+[2025-01-08 01:01:10][notice]Converting cropped-Icone-de-Madagasy.png to AVIF succeeded.
+[2025-01-08 01:01:10][notice]Start AVIF conversion:cropped-Icone-de-Madagasy-300x300.png
+[2025-01-08 01:01:11][notice]Converting cropped-Icone-de-Madagasy-300x300.png to AVIF succeeded.
+[2025-01-08 01:01:11][notice]Start AVIF conversion:cropped-Icone-de-Madagasy-150x150.png
+[2025-01-08 01:01:12][notice]Converting cropped-Icone-de-Madagasy-150x150.png to AVIF succeeded.
+[2025-01-08 01:01:12][notice]Start AVIF conversion:cropped-Icone-de-Madagasy-360x240.png
+[2025-01-08 01:01:12][notice]Converting cropped-Icone-de-Madagasy-360x240.png to AVIF succeeded.
+[2025-01-08 01:01:12][notice]Start AVIF conversion:cropped-Icone-de-Madagasy-270x270.png
+[2025-01-08 01:01:13][notice]Converting cropped-Icone-de-Madagasy-270x270.png to AVIF succeeded.
+[2025-01-08 01:01:13][notice]Start AVIF conversion:cropped-Icone-de-Madagasy-192x192.png
+[2025-01-08 01:01:14][notice]Converting cropped-Icone-de-Madagasy-192x192.png to AVIF succeeded.
+[2025-01-08 01:01:14][notice]Start AVIF conversion:cropped-Icone-de-Madagasy-180x180.png
+[2025-01-08 01:01:14][notice]Converting cropped-Icone-de-Madagasy-180x180.png to AVIF succeeded.
+[2025-01-08 01:01:14][notice]Start AVIF conversion:cropped-Icone-de-Madagasy-32x32.png
+[2025-01-08 01:01:14][notice]Converting cropped-Icone-de-Madagasy-32x32.png to AVIF succeeded.
+[2025-01-08 01:01:14][notice]Optimizing image id:1764 succeeded.
